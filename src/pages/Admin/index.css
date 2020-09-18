@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic);
+
+.admin-block {
+    width: 100%;
+    padding-right: 15%;
+    padding-left: 15%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 18px;
+
+}
+
+.table td, .table th {
+    padding: 1.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+

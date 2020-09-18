@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic);
+
+.column-text {
+    width: 100%;
+}
+
+.column-center-text{
+    width: 100%;
+}
+
+.column-center {
+    background: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+    margin-top: 18px;
+    padding: 20px;
+    width: 80%;
+    border-radius: 5px;
+    font-family: 'Playfair Display SC', serif;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 9px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Playfair Display SC', serif;
+
+
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Playfair Display SC', serif;
+}
+
+input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Playfair Display SC', serif;
+}
+
+input[type=submit] {
+
+    padding: 7px 17px;
+    margin: 5px 0;
+    border-radius: 7px;
+    cursor: pointer;
+    border: none;
+    background-color: #8A2BE2;
+    color: white;
+}
+
+.h1{
+    text-align: center;
+    margin-top: 52px;
+
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 52px;
+    font-family: 'Playfair Display SC', serif;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: -0.5rem;
+}
+.sub-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logout{
+
+}

@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700&subset=latin,cyrillic);
+
+li{
+    font-family: 'Playfair Display SC', serif;
+    font-style: italic;
+    font-size: 19px;
+
+}
+
+.good-img {
+    vertical-align: middle;
+    border-style: none;
+    height: 430px;
+    border-radius: 5px;
+    margin-top: 82px;
+    margin-left: 500px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+p {
+    text-align: left;
+    font-family: 'Playfair Display SC', serif;
+
+}
+
+.post-header {
+    position: relative;
+    padding: 50px;
+    text-align: center;
+    z-index: 2;
+    margin-top: 102px;
+}
+
+.first-block{
+    display: flex;
+    margin-bottom: 25px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 22px;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.block-about-product{
+    padding: 53px;
+    width: 55%;
+    margin-left: 444px;
+    margin-top: -70px;
+}
+
+.count-of-product{
+    width: 150px;
+    outline: none;
+    padding: 10px 8px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.button-for-add{
+    outline: none;
+    padding: 10px 8px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: 'Playfair Display SC', serif;
+    background-color: #8A2BE2;
+    color: white;
+}
+
+
